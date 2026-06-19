@@ -33,7 +33,6 @@ AI-Driven-Stock-Market-Sentiment-Analyzer/
 ├── market_sentiment_report.py
 ├── main.py
 │
-├── requirements.txt
 └── README.md
 ```
 
@@ -250,7 +249,7 @@ This project is intended for educational and research purposes only. The generat
 
 ## Author
 
-Rishu Kumar
+Rishabh Kumar Verma
 
 B.Tech – Computer Science & Engineering
 
